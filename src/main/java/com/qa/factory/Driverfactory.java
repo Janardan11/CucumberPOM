@@ -6,17 +6,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Driverfactory {
+	
 
-	/*
-
-
-
-
-        driverfactory
-
-
-
-         */
 	public WebDriver driver;
 	
 	public static ThreadLocal<WebDriver> tlDriver=new ThreadLocal<>();
