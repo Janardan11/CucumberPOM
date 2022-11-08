@@ -8,5 +8,10 @@ public class simplepage {
 
         //added changes
 
+        /*
+        hgfjhkgk jhkhjkhkjh
+
+        */
+
     }
 }
